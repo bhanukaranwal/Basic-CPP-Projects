@@ -1,0 +1,6 @@
+# Ignore local data and build output
+passwords.db
+build/
+*.user
+*.o
+*.exe
